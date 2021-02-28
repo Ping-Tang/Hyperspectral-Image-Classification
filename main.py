@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# first use github and just try to test fork
+# first use github and just try to test fork，用起来还是不习惯啊
 
 """
 DEEP LEARNING FOR HYPERSPECTRAL DATA.
